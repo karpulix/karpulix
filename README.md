@@ -3,15 +3,36 @@
 I'm Alexander, a DevOps and Software Engineer with over 8 years of experience in the IT industry. I develop solutions for e-commerce, follow principles of Infrastructure as Code (IaC) and automation, organize CI/CD pipelines, and support developers. As a responsible and versatile professional, I am skilled in managing a diverse range of tasks efficiently and am eager to continue growing and advancing in the role of a DevOps engineer.
 
 I am open to working on your project. Contact me:
+<!-- Skills icons
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="20" width="20"/></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="20" width="20"/></a>
+ -->
 
 <a href = "mailto:karpulix+github@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/alexander-karpov-812840159/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/karpulix"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 
-# 💻  About my tech stack
+# About My Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
 <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
@@ -21,7 +42,7 @@ I am open to working on your project. Contact me:
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
 <a href=""><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /></a>
 
-### ⚙️ Frameworks
+### Frameworks
 <a href=""><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
 <a href=""><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" /></a>
 <a href=""><img alt="Slim Framework" src="https://img.shields.io/badge/Slim_Framework-9bbb79?style=flat-square&logo=php&logoColor=white" /></a>
@@ -31,7 +52,7 @@ I am open to working on your project. Contact me:
 
 
 
-### 🧰 Tools
+### Tools
 <a href=""><img alt="GitLab CE" src="https://img.shields.io/badge/GitLab_CE-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
 <a href=""><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
 <a href=""><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></a>
