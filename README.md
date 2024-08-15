@@ -81,6 +81,7 @@ I am open to working on your project. Contact me:
 
 <a href=""><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
 <a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+<a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
 <a href=""><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /></a>
 
 ### Additional
@@ -90,9 +91,7 @@ I am open to working on your project. Contact me:
 <a href=""><img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-black?style=flat-square&logo=proxmox&logoColor=white" /></a>
 <a href=""><img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-black?style=flat-square&logo=mikrotik&logoColor=white" /></a>
 
-
 <a href=""><img alt="JIRA" src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" /></a>
 <a href=""><img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /></a>
 <a href=""><img alt="Zimbra" src="https://img.shields.io/badge/Zimbra-1B3A4E?style=flat-square&logo=&logoColor=white" /></a>
-
 
