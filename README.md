@@ -1,5 +1,9 @@
-Hi there 👋 
 
+
+<img alt="Hi there 👋 " src="https://readme-typing-svg.herokuapp.com?duration=6000&color=b3b3b3&center=false&size=14&width=500&vCenter=true&lines=Hi%20there%20%F0%9F%91%8B%20;Hi%20there%20%F0%9F%95%8A%EF%B8%8F"/>
+
+
+                    
 I'm Alexander, a DevOps and Software Engineer with over 8 years of experience in the IT industry. I develop solutions for e-commerce, follow principles of Infrastructure as Code (IaC) and automation, organize CI/CD pipelines, and support developers. As a responsible and versatile professional, I am skilled in managing a diverse range of tasks efficiently and am eager to continue growing and advancing in the role of a DevOps engineer.
 
 I am open to working on your project. Contact me:
