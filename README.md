@@ -33,6 +33,10 @@ I am open to working on your project. Contact me:
 <a href = "https://www.linkedin.com/in/alexander-karpov-812840159/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/karpulix"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
+## Pet-Projects:
+
+⚡️ [Telescroll](https://telescroll.me) \
+🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes))
 
 ## Stack
 
