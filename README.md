@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/dereknola/dereknola/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <img alt="Hi there 👋 " src="https://readme-typing-svg.herokuapp.com?duration=6000&color=b3b3b3&center=false&size=14&width=500&vCenter=true&lines=Hi%20there%20%F0%9F%91%8B%20;Hi%20there%20%F0%9F%95%8A%EF%B8%8F"/>
