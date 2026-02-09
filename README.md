@@ -45,7 +45,7 @@ I am open to working on your project. Contact me:
 
 ## Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpulix&theme=dark&langs_count=10&layout=compact)](https://github.com/karpulix/)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpulix&theme=dark&langs_count=10&layout=compact)](https://github.com/karpulix/)-->
 
 #### Languages
 <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
