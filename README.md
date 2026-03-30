@@ -40,7 +40,7 @@ I am open to working on your project. Contact me:
 🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes))
 
 ## Plugins
-⚓️ [kubectl-secret_d](https://github.com/karpulix/kubectl-secret_d)
+⚓️ [kubectl-secret_d](https://github.com/karpulix/kubectl-secret_d) \
 💬 [Mattermost Active Thread Highlighter](https://github.com/karpulix/mattermost-chrome-plugin-highlighter)
 
 
