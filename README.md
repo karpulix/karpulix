@@ -41,6 +41,7 @@ I am open to working on your project. Contact me:
 
 ## Plugins
 ⚓️ [kubectl-secret_d](https://github.com/karpulix/kubectl-secret_d)
+💬 [Mattermost Active Thread Highlighter](https://github.com/karpulix/mattermost-chrome-plugin-highlighter)
 
 
 ## Stack
