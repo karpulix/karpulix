@@ -40,8 +40,9 @@ I am open to working on your project. Contact me:
 🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes))
 
 ## Plugins
-⚓️ [kubectl-secret_d](https://github.com/karpulix/kubectl-secret_d) \
-💬 [Mattermost Active Thread Highlighter](https://github.com/karpulix/mattermost-chrome-plugin-highlighter)
+⚓️ [kubectl-secret_d (Kubectl Extension)](https://github.com/karpulix/kubectl-secret_d) \
+💬 [Mattermost Active Thread Highlighter(Chrome Extension)](https://github.com/karpulix/mattermost-chrome-plugin-highlighter)
+🔗 [Redirect Prevent (Chrome Extension)](https://github.com/karpulix/redirect-prevent-chrome)
 
 
 ## Stack
