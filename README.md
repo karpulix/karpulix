@@ -41,7 +41,7 @@ I am open to working on your project. Contact me:
 
 ## Plugins
 ⚓️ [kubectl-secret_d (Kubectl Extension)](https://github.com/karpulix/kubectl-secret_d) \
-💬 [Mattermost Active Thread Highlighter(Chrome Extension)](https://github.com/karpulix/mattermost-chrome-plugin-highlighter)
+💬 [Mattermost Active Thread Highlighter(Chrome Extension)](https://github.com/karpulix/mattermost-chrome-plugin-highlighter) \
 🔗 [Redirect Prevent (Chrome Extension)](https://github.com/karpulix/redirect-prevent-chrome)
 
 
