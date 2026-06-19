@@ -37,7 +37,7 @@ I am open to working on your project. Contact me:
 ## Side projects:
 
 ⚡️ [Telescroll](https://telescroll.me) \
-🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes))
+🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes)) \
 🧠 [ai-cli](https://github.com/karpulix/ai-cli)
 
 ## Plugins
