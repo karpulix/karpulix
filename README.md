@@ -38,6 +38,7 @@ I am open to working on your project. Contact me:
 
 ⚡️ [Telescroll](https://telescroll.me) \
 🔥 [Burnotes](https://burnotes.com) ([GitHub](https://github.com/karpulix/burnotes))
+🧠 [ai-cli](https://github.com/karpulix/ai-cli)
 
 ## Plugins
 ⚓️ [kubectl-secret_d (Kubectl Extension)](https://github.com/karpulix/kubectl-secret_d) \
